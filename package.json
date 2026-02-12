@@ -1,13 +1,9 @@
 {
   "author": {
-    "email": "ionlupascu@gmail.com",
-    "name": "Ion Lupascu",
-    "url": "http://program-support.co.uk/"
+    "email": "sammc@zwift.com.au",
+    "name": "Sam McCarthy (Zwift)",
+    "url": "https://zwift.com.au/"
   },
-  "contributors": [
-    "Thiago Lugli @thiagoelg",
-    "Eko Eryanto @ekoeryanto"
-  ],
   "dependencies": {
     "nan": "2.22.2",
     "node-gyp-build": "4.8.4"
@@ -28,10 +24,10 @@
   ],
   "main": "./index.js",
   "typings": "./index.d.ts",
-  "name": "@jbhi-fi/printer",
+  "name": "@zwiftdev/printer",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JBHi-Fi/node-printer.git"
+    "url": "git+https://github.com/zwiftdev/node-printer.git"
   },
   "scripts": {
     "install": "node-gyp-build",
